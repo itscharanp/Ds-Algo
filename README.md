@@ -1,3 +1,3 @@
 # Ds-Algo
 
-GFG Sol - python. optmized the complexities
+GFG Sol - JAVA / python. optmized the complexities
